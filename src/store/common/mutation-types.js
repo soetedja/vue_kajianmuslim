@@ -1,0 +1,3 @@
+export const SET_BREADCRUMBS = 'SET_BREADCRUMBS'
+export const SET_NAVIGATION = 'SET_NAVIGATION'
+export const SHOW_LOADER = 'SHOW_LOADER'

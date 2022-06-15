@@ -1,0 +1,16 @@
+export const ERROR_MSG = 'ERROR_MSG'
+export const SUCCESS_MSG = 'SUCCESS_MSG'
+export const VALIDATION_ERROR = 'VALIDATION_ERROR'
+
+// Base mutations
+export const GET_ALL_SUCCESS = 'GET_ALL_SUCCESS'
+
+export const GET_BY_ID_SUCCESS = 'GET_BY_ID_SUCCESS'
+
+export const UPDATE_SUCCESS = 'UPDATE_SUCCESS'
+
+export const ADD_SUCCESS = 'ADD_SUCCESS'
+
+export const REMOVE_SUCCESS = 'REMOVE_SUCCESS'
+
+export const SEARCH_SUCCESS = 'SEARCH_SUCCESS'
